@@ -8,7 +8,8 @@
     "authors": [
         {
             "name": "Alexander I. Ambat",
-            "email": "zander@rhinomedia.com.au"
+            "email": "zander@rhinomedia.com.au",
+            "position": "Developer"
         }
     ],
     "require": {
