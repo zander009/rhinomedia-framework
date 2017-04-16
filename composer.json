@@ -9,7 +9,8 @@
         {
             "name": "Alexander I. Ambat",
             "email": "zander@rhinomedia.com.au",
-            "position": "Developer"
+            "homepage": "https://github.com/zander009/rhinomedia-framework",
+            "role": "Developer"
         }
     ],
     "require": {
