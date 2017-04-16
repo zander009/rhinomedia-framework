@@ -6,7 +6,7 @@ rhinomedia-f is a framework made in PHP 7. This framework is not as powerful as 
 
 The author is just busy struggling in his day job located in the Philippines, when his boss assigned him to create a websites for big condominiums in Australia. But the author is tired enough to create the system from scratch and then he decided to create a framework. First, he named it `stick-o` for the reason that he saw a jar of stick-o laying around in his fellow workmates table then `stick-o` born. Soon enough his boss created a new firm named Rhino Media and then suddenly he renamed it to `rhinomedia-f`.
 
-The Architecture of the framework was inspired by the framework created by his Indonesian friend named Irvan https://github.com/Mr-vero (follow him on github and fork some of his work) the author of `framework-f`.
+The Architecture of the framework was inspired by the framework created by his Indonesian friend named Irvan [@mr_vero](https://github.com/Mr-vero) (follow him on github and fork some of his work) the author of `framework-f`.
 
 
 # Requirement:
