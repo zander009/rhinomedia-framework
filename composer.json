@@ -1,7 +1,8 @@
 {
     "name": "redzan/rhinomedia-f",
-    "type": "library",
+    "type": "project",
     "description": "Rhinomedia-f is a framework made in PHP 7",
+    "keywords": ["framework","php framework","rhinomedia framework", "rhinomedia"],
     "homepage": "https://github.com/zander009/rhinomedia-f",
     "license": "",
     "authors": [
