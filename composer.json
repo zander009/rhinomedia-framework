@@ -1,0 +1,18 @@
+{
+    "name": "php/rhinomedia-f",
+    "type": "library",
+    "description": "Rhinomedia-f is a framework made in PHP 7",
+    "homepage": "https://github.com/zander009/rhinomedia-f",
+    "license": "",
+    "authors": [
+        {
+            "name": "Alexander I. Ambat",
+            "email": "zander@rhinomedia.com.au"
+        }
+    ],
+    "require": {
+    	"phpmailer/phpmailer": "^5.2",
+        "dompdf/dompdf": "^0.7.0",
+        "mailchimp/mailchimp": "^2.0"
+    }
+}

@@ -1,0 +1,14 @@
+
+# |---------------------------------------------------------------
+# | .HTACCESS FILE CONFIGURATION
+# |--------------------------------------------------------------- 
+# | DO NOT REMOVE THIS CONFIGURATION UNLESS YOU KNOW WHAT TO DO
+# | THIS IS DEFAULT STRUCTURE FOR THE CONFIGURATION
+# | ONLY EDIT ON PART OF THE VALUE
+# |---------------------------------------------------------------
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} \.(gif|jpe?g|png|js|css|swf|php|ico|txt|pdf|xml)$ [OR]
+RewriteCond %{REQUEST_FILENAME} !-f
+
