@@ -4,7 +4,7 @@
     "description": "Rhinomedia-f is a framework made in PHP 7",
     "keywords": ["framework","php framework","rhinomedia framework", "rhinomedia"],
     "homepage": "https://github.com/zander009/rhinomedia-f",
-    "license": "",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Alexander I. Ambat",
