@@ -11,7 +11,7 @@ The Architecture of the framework was inspired by the framework created by his I
 
 # Requirement:
 
- - PHP >= 7
+ - PHP >= 7.0
  - PDO
 
 # Installation:
