@@ -31,7 +31,7 @@ download zip file then extract it to your localhost server folder
 Install via Composer:
 
 ```
-composer require rhinomedia/framework
+composer create-project redzan/rhinomedia-f
 ```
  
 # Create a new Database 
