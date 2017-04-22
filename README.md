@@ -19,7 +19,7 @@ The Architecture of the framework was inspired by the framework created by his I
 Install via git:
 
  ```
- git clone https://github.com/zander009/rhinomedia-f.git
+ git clone https://github.com/zander009/rhinomedia-framework.git
  ```
 
 Install via clone or download:
